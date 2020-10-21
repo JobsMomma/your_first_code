@@ -1,4 +1,4 @@
-int main()
+# Hello School
 {
   int i;
   for (i = 0; i < 32; i++)
@@ -7,3 +7,4 @@ int main()
   }
   return 0;
 }
+Still trying to figure this out...
